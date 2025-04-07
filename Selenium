@@ -1,0 +1,38 @@
+selenium is one of the most popular Open Source tools used for tool automation
+The test script can be created in various programming languages like Java, C#, Python etc
+selenium only allows the testing of web applications.
+selenium is a suite of tools, each tools Serves different testing needs
+
+features
+
+Open-source and portable 
+Playback and record feature
+cloud-based testing platform 
+Supports varinus os, languages.
+Integration with testing frameworks 
+Parallel test execulion
+
+
+i) selenium is an open-source and portable framework for, testing web applications.
+
+iil Tests can be authorized without learning-a test saipting language with the help of playback and record fealuxe
+
+(i) selenium is a leading cloud-based testing-platform that allows testers to record their actions and export them.
+
+(iv) selenium supports several operating Systems, browsers, and programming languages
+
+v) selenium can be well integrated with testing frameworks like testNG
+
+vi) selenium allows parallel test execution which increases the efficiency of tests.
+
+Different selenium Tools.
+
+Selenium Remote control, selenium Grid, selenium IDE, selenium web Driver,
+
+selenium Remote Control (RC) enables the writing of automated web applications in languages such as  Java, C# etc. It's hardly used in today, as the web Driver offers mare powerful functionalities.
+
+selemum Grid enables the running of tests in parallel on several machines. The command are routed to the remote web baswser instances, and one server acts as the hub. The hub is responsible for conducting serveral tests on multiple machines.
+
+Selenium IDE needs no additional setup except installing the extension on your browser. The IDE makes the test debugging essier with features like setting breakpoints and pausing exceptions.
+
+selenium web Driver is the most critical component of the selenium Tool's suite that allows cross-browser compatibility testing the web Driver supports various operating Systems like windows, Linux, Unix, etc.
